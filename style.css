@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto Mono', sans-serif;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+
+svg {
+    height: 125px;
+}
