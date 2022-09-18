@@ -11,7 +11,12 @@ body {
     background-color: rgb(81, 194, 232);
 }
 
-
+.logo,
+.actions>div,
+.generals>div {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
 
 svg {
     height: 125px;
