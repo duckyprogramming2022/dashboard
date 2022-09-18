@@ -10,3 +10,7 @@ body {
 svg {
     height: 125px;
 }
+
+path {
+    fill: grey;
+}
