@@ -7,10 +7,16 @@ body {
     grid-template-columns: 1fr 4fr;
 }
 
+.sideboard {
+    background-color: rgb(81, 194, 232);
+}
+
+
+
 svg {
     height: 125px;
 }
 
 path {
-    fill: grey;
+    fill: white;
 }
